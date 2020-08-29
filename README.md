@@ -5,3 +5,6 @@
 
 # Day-02
 [Notebook](https://github.com/Bhanuchandarreddy/Pythononline-training-Batch-5/blob/master/25-08-2020.ipynb)
+
+# Day-03
+[Notebook](https://github.com/Bhanuchandarreddy/Pythononline-training-Batch-5/blob/master/26-08-2020.ipynb)
