@@ -17,3 +17,6 @@
 
 # Day -06
 [Notebook](https://github.com/Bhanuchandarreddy/Pythononline-training-Batch-5/blob/master/29-0-2020.ipynb)
+
+# Day -07
+[Notebook](https://github.com/Bhanuchandarreddy/Pythononline-training-Batch-5/blob/master/31-08-2020.ipynb)
