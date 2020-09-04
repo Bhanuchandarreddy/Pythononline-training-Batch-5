@@ -32,4 +32,7 @@
 
 # day -11
 [notebook](https://github.com/Bhanuchandarreddy/Pythononline-training-Batch-5/blob/master/04-09-2020.ipynb)
+[cal.py](https://github.com/Bhanuchandarreddy/Pythononline-training-Batch-5/blob/master/calc.py)
+[randomgen.py](https://github.com/Bhanuchandarreddy/Pythononline-training-Batch-5/blob/master/randomgen.py)
+
 
