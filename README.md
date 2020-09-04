@@ -31,8 +31,8 @@
 [notebook](https://github.com/Bhanuchandarreddy/Pythononline-training-Batch-5/blob/master/03-09-2020.ipynb)
 
 # day -11
-[notebook](https://github.com/Bhanuchandarreddy/Pythononline-training-Batch-5/blob/master/04-09-2020.ipynb)
-[cal.py](https://github.com/Bhanuchandarreddy/Pythononline-training-Batch-5/blob/master/calc.py)
+[notebook](https://github.com/Bhanuchandarreddy/Pythononline-training-Batch-5/blob/master/04-09-2020.ipynb)<br>
+[cal.py](https://github.com/Bhanuchandarreddy/Pythononline-training-Batch-5/blob/master/calc.py)<br>
 [randomgen.py](https://github.com/Bhanuchandarreddy/Pythononline-training-Batch-5/blob/master/randomgen.py)
 
 
