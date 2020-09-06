@@ -1,5 +1,25 @@
 # Pythononline-training-Batch-5
 
+# New Meeting Id
+[Click Here](python wsp's Meeting
+
+
+Please join my meeting from your computer, tablet or smartphone.
+
+https://www.gotomeet.me/bchandrat
+
+You can also dial in using your phone.
+(For supported devices, tap a one-touch number below to join instantly.)
+
+United States: +1 (224) 501-3412
+- One-touch: tel:+12245013412,,363496101#
+
+Access Code: 363-496-101
+
+
+New to GoToMeeting? Get the app now and be ready when your first meeting starts: https://global.gotomeeting.com/install/363496101
+)
+
 # Day-01
 [Notebook](https://github.com/Bhanuchandarreddy/Pythononline-training-Batch-5/blob/master/24-08-2020.ipynb)
 
