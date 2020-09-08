@@ -55,6 +55,9 @@ New to GoToMeeting? Get the app now and be ready when your first meeting starts:
 [cal.py](https://github.com/Bhanuchandarreddy/Pythononline-training-Batch-5/blob/master/calc.py)<br>
 [randomgen.py](https://github.com/Bhanuchandarreddy/Pythononline-training-Batch-5/blob/master/randomgen.py)
 
+# day -12
+[Notebook()
+
 # day -13
 [notebook](https://github.com/Bhanuchandarreddy/Pythononline-training-Batch-5/blob/master/07-09-2020.ipynb)
 
