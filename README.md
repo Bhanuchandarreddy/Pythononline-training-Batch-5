@@ -69,4 +69,7 @@ New to GoToMeeting? Get the app now and be ready when your first meeting starts:
 # day -15
 [Notebook](https://github.com/Bhanuchandarreddy/Pythononline-training-Batch-5/blob/master/09-09-2020.ipynb)
 
+# day -16
+[Notebook](https://github.com/Bhanuchandarreddy/Pythononline-training-Batch-5/blob/master/10-09-2020.ipynb)
+
 
